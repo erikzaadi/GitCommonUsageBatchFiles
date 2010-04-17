@@ -2,11 +2,13 @@
 
 ##Add And Commit
 Adds all new files with "git add .", then commits the files
+
 **Needs a commit message enclosed in doublequotes as parameter**
 
 	gitac "Commit Message"
 ##Commit
 Commits all modified or staged files
+
 **Needs a commit message enclosed in doublequotes as parameter**
 
 	gitc "Commit Message"
