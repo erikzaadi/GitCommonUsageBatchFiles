@@ -1,4 +1,4 @@
-﻿#A collection of batch files to save some time on those reoccuring git interactions
+#A collection of batch files to save some time on those reoccuring git interactions
 
 ##Add And Commit
 Adds all new files with "git add .", then commits the files
